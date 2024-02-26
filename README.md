@@ -1,4 +1,4 @@
-# game_of_life implement by your humble friend Norch
+# game_of_life implemented by your humble friend Norch
 
 ## Description
 This program is an implementation of Conway's Game of Life, a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is a zero-player game, meaning its evolution is determined by its initial state, requiring no further input. It consists of a grid of cells which, based on a set of rules, can live, die, or multiply over iterations.
