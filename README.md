@@ -28,8 +28,8 @@ Overall, this program is a complex and interactive implementation of Conway's Ga
 
 ## Compiling and Running:
 - Compile with `-lncurses` flag
-- Simply run executable without arguments `gcc game_of_life.c -lncurses -o "binary/a.out" && binary/a.out`
-- There is various initial configs in `configs` folder to use, you can use `|` (pipe) to simplify initial input like so: `cat configs/21school.conf | binary/a.out`
+- Simply run executable without arguments `gcc game_of_life.c -lncurses -o "bin/a.out" && bin/a.out`
+- There is various initial configs in `configs` folder to use, you can use `|` (pipe) to simplify initial input like so: `cat configs/21school.conf | bin/a.out`
 
 ## How to play:
 - Set up initial state by stdin, providing `x,y` coordinates of live cells, `-1,-1` means end of input
